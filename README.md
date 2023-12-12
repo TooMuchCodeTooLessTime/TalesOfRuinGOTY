@@ -21,6 +21,7 @@ ___
 - Git Repo einrichten - (Sven) ✔
   - Github Desktop & Gamemaker bei Krone einrichten - (Sven) 🚧
   - Github Desktop & Gamemaker bei Flo einrichten - (Sven) 🚧
+  - Wie benutzen wir Git? Konventionen Do's & Don't's - (Thien) 🚧
 - Soundeffekte - (Thien)  🚧
 - Gamemaker Einführung - (Krone) 🚧
 - Kameras - (Alle) 🚧
