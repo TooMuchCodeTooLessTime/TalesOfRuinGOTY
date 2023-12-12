@@ -24,8 +24,7 @@ ___
   - Wie benutzen wir Git? Konventionen Do's & Don't's - (Thien) 🚧
 - Soundeffekte - (Thien)  🚧
 - Gamemaker Einführung - (Krone) 🚧
-- Kameras - (Alle) 🚧
-- Viewports - (Alle)
+- Kameras & Viewports - (Alle) 🚧
 ___
 ## Gameplay:
 Der Spieler erweckt die Burg von Grund auf zum Leben, Stein um Stein erhebt sich das majestätische Gebäude 'gen Himmel. Jeder neu geschaffene Raum birgt verschiedene Ressourcen, die dazu dienen, die Festung zu erweitern und sich gegen unaufhaltsame Gefahren zu rüsten. Belagerungen, Seuchen und der unaufhaltsame Zerfall bedrohen fortwährend die Existenz der Burg. Das Spiel kulminiert stets im unausweichlichen Untergang – die Frage bleibt lediglich, wie lange der Spieler diesem Schicksal trotzen kann. 
