@@ -12,7 +12,8 @@ ___
 - [Story](#Story), Dialoge der Festung - (Krone, Freiwillige) 🚧
 - [Spielsystem Konzept/Plan](#Gameplay) anfertigen (Ressourcen, Spielablauf, etc.) - (Alle) 🚧
   - Grobes Konzept - (Krone) ✔
-  - Konzept verfeinern - (Alle) 🚧
+  - Konzept verfeinern - (Krone, Sven) ✔
+  - Konzept nochmal verfeinern? 
   - Konzept finalisieren - (Alle) 🚧
 - [Code Konzept](#Code) aus Spielsystem Konzept erstellen - (Alle) 🚧
   - Grobes Konzept - (Alle) 🚧
